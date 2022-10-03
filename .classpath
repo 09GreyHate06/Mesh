@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl/lwjgl-sources.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-assimp/lwjgl-assimp-sources.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-glfw/lwjgl-glfw-sources.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-nfd/lwjgl-nfd-sources.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-opengl/lwjgl-opengl-sources.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-linux.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-linux-arm32.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-linux-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-macos.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-macos-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-windows.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-windows-arm64.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-natives-windows-x86.jar"/>
+	<classpathentry kind="lib" path="lib/lwjgl-stb/lwjgl-stb-sources.jar"/>
+	<classpathentry kind="lib" path="lib/ashley-1.7.4.jar"/>
+	<classpathentry kind="lib" path="lib/gdx-1.9.9.jar"/>
+	<classpathentry kind="lib" path="lib/imgui-binding-1.86.4.jar"/>
+	<classpathentry kind="lib" path="lib/imgui-lwjgl3-1.86.4.jar"/>
+	<classpathentry kind="lib" path="lib/joml-1.10.4.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
